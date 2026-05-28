@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "cartretch",
+        "uuid": 43812536,
+        "checksum": "5lvgrb"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": true,
+        "mode": "staging"
+    }
+}
